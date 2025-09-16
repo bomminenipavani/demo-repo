@@ -1,3 +1,4 @@
+package third_operators;
 public class operators {
     public static void main(String[] args) {
                 // Arithmetic Operators
